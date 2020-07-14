@@ -3,7 +3,7 @@ def line(number)
   if katz_deli.length == 0
     puts "The line is currently empty."
   end
-    hash.new
+    hash = hash.new
     (take_a_number).each_with_index
     
     
