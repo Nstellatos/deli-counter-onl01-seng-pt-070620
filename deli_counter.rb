@@ -6,6 +6,7 @@ def line(number)
     hash.new
     
     
+    
     #def take_a_number(katz_deli,customer_name)
      # if katz_deli > 0
       #  puts "The line is currently #{katz_deli}, #{custumer_name}."
