@@ -1,16 +1,5 @@
-katz_deli = []
 def line(number)
-  if katz_deli.length == 0
+  if line.length == 0
     puts "The line is currently empty."
   end
-    hash = hash.new
-    (take_a_number).each_with_index
-    
-    
-    #def take_a_number(katz_deli,customer_name)
-     # if katz_deli > 0
-      #  puts "The line is currently #{katz_deli}, #{custumer_name}."
-      end
-        
-end
 end
