@@ -4,7 +4,7 @@ def line(number)
     puts "The line is currently empty."
   end
     hash.new
-    
+    (take_a_number).each
     
     
     #def take_a_number(katz_deli,customer_name)
